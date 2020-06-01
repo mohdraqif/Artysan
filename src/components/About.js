@@ -6,7 +6,7 @@ const About = () => {
       <div className="about-info">
         <div className="about-content">
           <h1>We are Artysan</h1>
-          <h4>Serving since 2010, we are as proud as thankful for all the support. Our team at Artysan is committed to serving you the best you ever had. </h4>
+          <h4>Serving since 2016, we are as proud as thankful for all the support. Our team at Artysan is committed to serving you the best you ever had. </h4>
           <h4>Your taste is our priority. A well-expertised team at our hand we serve the best art of the county and will continue to do so.</h4>
           <h4>A 3-time Award-winning place is waiting for you. We love giving a reason for happiness to our people. Come again soon.</h4>
         </div>

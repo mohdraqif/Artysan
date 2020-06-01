@@ -9,26 +9,26 @@ const Service = () => {
       <div className="row">
         <div className="column1">
           <div className="brunch"/>
-          <h1>Brunch</h1>
+          <h1>Wall Solution</h1>
         </div>
         <div className="column2">
           <div className="dinner"/>
-          <h1>Dinner</h1>
+          <h1>Art Solution</h1>
         </div>
         <div className="column3">
           <div className="party"/>
-          <h1>Party</h1>
+          <h1>Workshops</h1>
         </div>
       </div>
       <div class="row">
-        <div class="call">
-          <h2>Call Us</h2>
-        </div>
         <div class="walk">
-          <h2>Walk In</h2>
+          <h2>Order Canvases</h2>
+        </div>
+        <div class="call">
+          <h2>Wall Art</h2>
         </div>
         <div class="online">
-          <h2>Order Online</h2>
+          <h2>Brush Lettering</h2>
         </div>
       </div>
     </div>

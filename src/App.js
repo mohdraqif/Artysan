@@ -8,6 +8,7 @@ import Portfolio from './components/Portfolio'
 import Blog from './components/Blog'
 import Service from './components/Service'
 import Contact from './components/Contact'
+import Slideshow from './components/Slideshow'
 
 const App = () => {
   return (
@@ -15,8 +16,9 @@ const App = () => {
       <Header/>
       <Hero/>
       <About/>
-      {/* <Portfolio/> */}
+      <Portfolio/>
       <Service/>
+      <Slideshow/>
       <Blog/>
       <Contact/>
       <Footer/>
