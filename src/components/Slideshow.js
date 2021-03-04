@@ -5,18 +5,18 @@ export default class Slideshow extends Component {
     clients:[
       { "src": "https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_2x1.jpg" },
       { "src": "https://www.alabamanews.net/content/uploads/2018/08/AP_507901716902.png" },
-      { "src": "http://media.corporate-ir.net/media_files/IROL/17/176060/Oct18/Amazon%20logo.PNG" },
+      { "src": "https://1000logos.net/wp-content/uploads/2017/08/Airbnb-logo.jpg" },
       { "src": "https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_2x1.jpg" },
       { "src": "https://www.alabamanews.net/content/uploads/2018/08/AP_507901716902.png" },
-      { "src": "http://media.corporate-ir.net/media_files/IROL/17/176060/Oct18/Amazon%20logo.PNG" },
+      { "src": "https://1000logos.net/wp-content/uploads/2017/08/Airbnb-logo.jpg" },
       { "src": "https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_2x1.jpg" },
       { "src": "https://www.alabamanews.net/content/uploads/2018/08/AP_507901716902.png" },
-      { "src": "http://media.corporate-ir.net/media_files/IROL/17/176060/Oct18/Amazon%20logo.PNG" },      
+      { "src": "https://1000logos.net/wp-content/uploads/2017/08/Airbnb-logo.jpg" },      
       { "src": "https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_2x1.jpg" },
-      { "src": "http://media.corporate-ir.net/media_files/IROL/17/176060/Oct18/Amazon%20logo.PNG" },      
+      { "src": "https://1000logos.net/wp-content/uploads/2017/08/Airbnb-logo.jpg" },      
       { "src": "https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_2x1.jpg" },
       { "src": "https://www.alabamanews.net/content/uploads/2018/08/AP_507901716902.png" },
-      { "src": "http://media.corporate-ir.net/media_files/IROL/17/176060/Oct18/Amazon%20logo.PNG" }
+      { "src": "https://1000logos.net/wp-content/uploads/2017/08/Airbnb-logo.jpg" }
     ]
   }
   render() {
