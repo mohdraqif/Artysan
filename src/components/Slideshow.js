@@ -21,7 +21,7 @@ export default class Slideshow extends Component {
           <div class="slide-track">
           {this.state.clients.map((client) => {
             return <div class="slide">
-              <img src={client.src} height="200" width="250" alt="" />
+              <img src={client.src} height="300" width="300" alt="" />
             </div>
           })}
           </div>
