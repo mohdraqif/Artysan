@@ -5,16 +5,18 @@ export default class Slideshow extends Component {
     clients:[
       { "src": "https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_2x1.jpg" },
       { "src": "https://www.alabamanews.net/content/uploads/2018/08/AP_507901716902.png" },
-      { "src": "https://lh3.googleusercontent.com/proxy/TVKgMeyJAFlLiW0QEh0kAzPOA-c9Z1BPFobrluooRILSKJjiXDhprpl6plcmLC-d8DwW5pYdxvtHEMIGlWNa1pFl5sOVvcMmAJm5KXvfnM6VnDxEkLsFJqG0JEjcN4559F1pcHJPtcSIhP90L7O7zw5zWLMK4LI" },
-            { "src": "https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_2x1.jpg" },
+      { "src": "http://media.corporate-ir.net/media_files/IROL/17/176060/Oct18/Amazon%20logo.PNG" },
+      { "src": "https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_2x1.jpg" },
       { "src": "https://www.alabamanews.net/content/uploads/2018/08/AP_507901716902.png" },
-      { "src": "https://lh3.googleusercontent.com/proxy/TVKgMeyJAFlLiW0QEh0kAzPOA-c9Z1BPFobrluooRILSKJjiXDhprpl6plcmLC-d8DwW5pYdxvtHEMIGlWNa1pFl5sOVvcMmAJm5KXvfnM6VnDxEkLsFJqG0JEjcN4559F1pcHJPtcSIhP90L7O7zw5zWLMK4LI" },      { "src": "https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_2x1.jpg" },
+      { "src": "http://media.corporate-ir.net/media_files/IROL/17/176060/Oct18/Amazon%20logo.PNG" },
+      { "src": "https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_2x1.jpg" },
       { "src": "https://www.alabamanews.net/content/uploads/2018/08/AP_507901716902.png" },
-      { "src": "https://lh3.googleusercontent.com/proxy/TVKgMeyJAFlLiW0QEh0kAzPOA-c9Z1BPFobrluooRILSKJjiXDhprpl6plcmLC-d8DwW5pYdxvtHEMIGlWNa1pFl5sOVvcMmAJm5KXvfnM6VnDxEkLsFJqG0JEjcN4559F1pcHJPtcSIhP90L7O7zw5zWLMK4LI" },      { "src": "https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_2x1.jpg" },
+      { "src": "http://media.corporate-ir.net/media_files/IROL/17/176060/Oct18/Amazon%20logo.PNG" },      
+      { "src": "https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_2x1.jpg" },
+      { "src": "http://media.corporate-ir.net/media_files/IROL/17/176060/Oct18/Amazon%20logo.PNG" },      
+      { "src": "https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_2x1.jpg" },
       { "src": "https://www.alabamanews.net/content/uploads/2018/08/AP_507901716902.png" },
-      { "src": "https://lh3.googleusercontent.com/proxy/TVKgMeyJAFlLiW0QEh0kAzPOA-c9Z1BPFobrluooRILSKJjiXDhprpl6plcmLC-d8DwW5pYdxvtHEMIGlWNa1pFl5sOVvcMmAJm5KXvfnM6VnDxEkLsFJqG0JEjcN4559F1pcHJPtcSIhP90L7O7zw5zWLMK4LI" },      { "src": "https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_2x1.jpg" },
-      { "src": "https://www.alabamanews.net/content/uploads/2018/08/AP_507901716902.png" },
-      { "src": "https://lh3.googleusercontent.com/proxy/TVKgMeyJAFlLiW0QEh0kAzPOA-c9Z1BPFobrluooRILSKJjiXDhprpl6plcmLC-d8DwW5pYdxvtHEMIGlWNa1pFl5sOVvcMmAJm5KXvfnM6VnDxEkLsFJqG0JEjcN4559F1pcHJPtcSIhP90L7O7zw5zWLMK4LI" }
+      { "src": "http://media.corporate-ir.net/media_files/IROL/17/176060/Oct18/Amazon%20logo.PNG" }
     ]
   }
   render() {
