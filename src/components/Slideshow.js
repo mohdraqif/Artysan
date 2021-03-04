@@ -5,13 +5,13 @@ export default class Slideshow extends Component {
     clients:[
       { "src": "https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_2x1.jpg" },
       { "src": "https://lh3.googleusercontent.com/proxy/TVKgMeyJAFlLiW0QEh0kAzPOA-c9Z1BPFobrluooRILSKJjiXDhprpl6plcmLC-d8DwW5pYdxvtHEMIGlWNa1pFl5sOVvcMmAJm5KXvfnM6VnDxEkLsFJqG0JEjcN4559F1pcHJPtcSIhP90L7O7zw5zWLMK4LI" },
-      { "src": "https://miro.medium.com/max/2678/0*NChTo-XqLOxLabIW" },
+      { "src": "https://deadline.com/wp-content/uploads/2020/07/netflix-logo.png" },
       { "src": "https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_2x1.jpg" },
       { "src": "https://lh3.googleusercontent.com/proxy/TVKgMeyJAFlLiW0QEh0kAzPOA-c9Z1BPFobrluooRILSKJjiXDhprpl6plcmLC-d8DwW5pYdxvtHEMIGlWNa1pFl5sOVvcMmAJm5KXvfnM6VnDxEkLsFJqG0JEjcN4559F1pcHJPtcSIhP90L7O7zw5zWLMK4LI" },
-      { "src": "https://miro.medium.com/max/2678/0*NChTo-XqLOxLabIW" },
+      { "src": "https://deadline.com/wp-content/uploads/2020/07/netflix-logo.png" },
       { "src": "https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_2x1.jpg" },
       { "src": "https://lh3.googleusercontent.com/proxy/TVKgMeyJAFlLiW0QEh0kAzPOA-c9Z1BPFobrluooRILSKJjiXDhprpl6plcmLC-d8DwW5pYdxvtHEMIGlWNa1pFl5sOVvcMmAJm5KXvfnM6VnDxEkLsFJqG0JEjcN4559F1pcHJPtcSIhP90L7O7zw5zWLMK4LI" },
-      { "src": "https://miro.medium.com/max/2678/0*NChTo-XqLOxLabIW" }
+      { "src": "https://deadline.com/wp-content/uploads/2020/07/netflix-logo.png" }
     ]
   }
   render() {
