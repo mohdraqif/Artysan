@@ -16,15 +16,15 @@ const Footer = () => {
 			<h2>You know where we are</h2>
 			<div className="part">
 				<i className="fa fa-phone"></i>
-				<p><span>Make A Call At</span>+91 7838909237</p>
+				<p><span>Make A Call At</span>+91 783890XXXX</p>
 			</div>
 			<div className="part">
 			<i className="fa fa-map-marker"></i>
-				<p><span>Check Us Out At</span><a href="/">info@artysan.in</a></p>
+				<p><span>Check Us Out At</span><a href="/">www.example.in</a></p>
 			</div>
 			<div className="part">
 			<i className="fa fa-envelope"></i>
-			<a href="mailto:artysan.co@gmail.com">artysan.co@gmail.com</a>
+			<a href="mailto:example@gmail.com">example@gmail.com</a>
 			</div>
 		</div>
  
